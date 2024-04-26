@@ -1,0 +1,33 @@
+.txt-field-bg{
+    -fx-background-color: #EFEFEFFF;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+    -fx-border-color: #CCCCCC;
+    -fx-border-width: 1.5;
+    -fx-pref-height: 44;
+}
+.txt-field{
+    -fx-background-color: #EFEFEFFF;
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+    -fx-font-size: 15px;
+    -fx-padding: 5px;
+    -fx-text-fill: #5e5e5e;
+    -fx-font-family: Poppins;
+    -fx-prompt-text-fill: #747474;
+}
+.btn-add{
+    -fx-background-color: #8888f5;
+    -fx-background-radius: 8px;
+
+    -fx-font-family: Poppins;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(three-pass-box, rgba(139, 139, 139, 0.57), 5, 0, 4, 4);
+}
+
+.btn-add:hover{
+    -fx-background-color: #6c6cf3;
+    -fx-font-size: 17px;
+
+}
